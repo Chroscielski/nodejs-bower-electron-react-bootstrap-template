@@ -1,0 +1,22 @@
+{
+  "name": "rssreader",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Dawid Chroscielski"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Chroscielski/RSSReader",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "bootstrap-side-navbar": "^1.0.1"
+  }
+}
